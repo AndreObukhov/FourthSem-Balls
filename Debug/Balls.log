@@ -1,3 +1,0 @@
-﻿  Balls.cpp
-c:\users\user\mipt\ballz\balls\balls\balls.cpp(112): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-  Balls.vcxproj -> C:\Users\User\MIPT\Ballz\Balls\Debug\Balls.exe
